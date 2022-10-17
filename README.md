@@ -60,22 +60,22 @@ endmodule
 
 ## Logical symbol & truthtable:
 ## Half subractor truthtable:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de%209.jpg)
 
 ## Ful  subractor truthtable:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de%2010.jpg)
 
 ##  RTL realization
 ## Half subractor:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de%2011.jpg)
 ## Ful  subractor:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de%2012.jpg)
 
 ## Timing diagram 
 ## Half subractor:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de%2013.jpg)
 ## Full subractor:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de%2014.jpg)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
